@@ -18,7 +18,6 @@ void main() async {
   Hive.registerAdapter(TaskAdapter());
   Hive.registerAdapter(HabitAdapter());
 
-  // ✅ Just open the boxes normally
   await Hive.openBox<Task>('tasks');
   await Hive.openBox<Habit>('habits');
 
