@@ -12,7 +12,6 @@ A Flutter-based habit tracking application with offline-first data persistence u
 - Flutter
 - Dart
 - Hive (Local Database)
-- Provider / Bloc (mention what you used)
 
 ##  Architecture
 - Clean architecture principles
