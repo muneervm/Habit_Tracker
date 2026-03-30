@@ -24,12 +24,16 @@ A Flutter-based habit tracking application with offline-first data persistence u
 - Designed reusable UI components
 
 ## 📸 Screenshots
-screenshots/
-- habit_tracker added task list.jpeg
-- habit_tracker login.jpeg
-- habit_tracker splash.jpeg
-- habit_tracker task add.jpeg
-- habit_tracker tracklist.jpeg
+
+![Splash](screenshots/habit_tracker%20splash.jpeg)
+
+![Login](screenshots/habit_tracker%20login.jpeg)
+
+![Add Task](screenshots/habit_tracker%20task%20add.jpeg)
+
+![Task List](screenshots/habit_tracker%20tracklist.jpeg)
+
+![Added Task List](screenshots/habit_tracker%20added%20task%20list.jpeg)
 
 ## 🔗 GitHub
 https://github.com/muneervm/Habit_Tracker
