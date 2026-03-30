@@ -23,9 +23,7 @@ A Flutter-based habit tracking application with offline-first data persistence u
 - Optimized local data access for fast performance
 - Designed reusable UI components
 
-## 📸 Screenshots
-
-## 📸 Screenshots
+##  Screenshots
 
 <p align="center">
   <img src="screenshots/habit_tracker spalsh.jpeg" width="250"/>
