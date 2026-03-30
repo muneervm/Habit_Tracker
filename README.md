@@ -28,7 +28,7 @@ A Flutter-based habit tracking application with offline-first data persistence u
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/habit_tracker%20splash.jpeg" width="250"/>
+  <img src="screenshots/habit_tracker spalsh.jpeg" width="250"/>
   <img src="screenshots/habit_tracker%20login.jpeg" width="250"/>
   <img src="screenshots/habit_tracker%20task%20add.jpeg" width="250"/>
 </p>
