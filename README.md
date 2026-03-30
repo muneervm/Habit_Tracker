@@ -1,16 +1,35 @@
-# todo_list_app
+# Flutter Habit Tracker App
 
-A new Flutter project.
+A Flutter-based habit tracking application with offline-first data persistence using Hive.
 
-## Getting Started
+##  Features
+- Add, edit, and delete habits
+- Track daily progress
+- Offline data storage using Hive
+- Smooth and responsive UI
 
-This project is a starting point for a Flutter application.
+##  Tech Stack
+- Flutter
+- Dart
+- Hive (Local Database)
+- Provider / Bloc (mention what you used)
 
-A few resources to get you started if this is your first Flutter project:
+##  Architecture
+- Clean architecture principles
+- Separation of UI, data, and logic layers
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+##  Key Highlights
+- Implemented efficient CRUD operations using Hive
+- Optimized local data access for fast performance
+- Designed reusable UI components
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+screenshots/
+- habit_tracker added task list.jpeg
+- habit_tracker login.jpeg
+- habit_tracker splash.jpeg
+- habit_tracker task add.jpeg
+- habit_tracker tracklist.jpeg
+
+## 🔗 GitHub
+https://github.com/muneervm/Habit_Tracker
